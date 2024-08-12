@@ -1,0 +1,29 @@
+table, tr, td{
+    border: solid 1px black;
+    font-family: 'Franklin Gothic Medium';
+    font-style: italic;
+}
+
+.Largura{
+    background-color: aquamarine;
+}
+
+#larg1{
+    width: 110;
+}
+
+#larg2{
+    width: 110;
+}
+
+#larg3{
+    width: 110;
+}
+
+#larg4{
+    width: 110;
+}
+
+#larg5{
+    width: 110;
+}
