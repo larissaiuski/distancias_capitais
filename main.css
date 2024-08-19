@@ -4,26 +4,10 @@ table, tr, td{
     font-style: italic;
 }
 
-.Largura{
-    background-color: aquamarine;
+.titulo{
+    background-color: rgb(124, 124, 197);
 }
 
-#larg1{
-    width: 110;
-}
-
-#larg2{
-    width: 110;
-}
-
-#larg3{
-    width: 110;
-}
-
-#larg4{
-    width: 110;
-}
-
-#larg5{
-    width: 110;
+.preto{
+    background-color: black;
 }
