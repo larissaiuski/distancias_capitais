@@ -16,6 +16,10 @@ O projeto consiste na composição  de uma tabela que conta com capitais brasile
 * Cuiabá
 * Curitiba
 
+### Resultado do projeto
+
+![Resultado final do projeto]()
+
 ## Índice
 
  * [Descrição](#descrição)
@@ -46,4 +50,3 @@ O projeto foi desenvolvido pelo grupo:
 * Mariane Lima Remonte Viana
 * Vitor Gabriel de Souza
 * Vivian Oliveira Almeida
- 
