@@ -18,7 +18,19 @@ O projeto consiste na composição  de uma tabela que conta com capitais brasile
 
 ### Resultado do projeto
 
-![Resultado final do projeto]()
+### table
+
+* Table - O table consiste um table, com linhas e colunas para melhor visualiza
+* Tr - Cria linhas, separando as células da tabela.
+
+![Imagem ilustrativa dos elementos Table e Tr]()
+
+
+Também foi usado:
+
+
+
+![Resultado final do projeto](img/resultado-final.png)
 
 ## Índice
 
@@ -30,6 +42,7 @@ O projeto consiste na composição  de uma tabela que conta com capitais brasile
 
 ## Tecnologias
 
+* HTML5
 * css3
 * readme
 * git
